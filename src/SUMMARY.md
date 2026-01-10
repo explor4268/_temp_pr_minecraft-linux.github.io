@@ -23,4 +23,7 @@ Edition). The launcher supports Linux and OS X.
     - [Debugging NDK Libraries](./extra/advanced/debugging_ndk_libraries/index.md)
     - [JNI](./extra/advanced/jni/index.md)
     - [NDK Shims](./extra/advanced/ndk_shims/index.md)
+    - [Modding Api](./extra/advanced/modding-api/index.md)
+    - [Game Window Api](./extra/advanced/game-window-api/index.md)
+    - [Menu Api](./extra/advanced/menu-api/index.md)
 - [External Links](./external_links/index.md)
